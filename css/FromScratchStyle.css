@@ -1,0 +1,39 @@
+body {
+    background-color:rgb(77, 143, 213);
+    text-align: center;
+}
+#header1 { 
+    color:rgb(99, 226, 97);
+    background-color:#8d8741;
+    font-family: "Rubik Microbe", cursive; 
+}
+#header2 { 
+    color:rgb(99, 226, 97);
+    background-color:#8d8741;
+    font-family: "Rubik Microbe", cursive; 
+}
+p {
+    color:aliceblue;
+    font-family: 'Merriweather', serif; 
+}
+li {
+    color:aliceblue;
+    text-align: left;
+    font-family: 'Merriweather', serif; 
+}
+.pic {
+    align-items:center;
+}
+#Footer{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+#captions{
+    color: rgb(91, 70, 70);
+}
+#pic2{
+    position: absolute;
+    width: 400px;
+    right: 100px;
+    top: 200px;
+}
